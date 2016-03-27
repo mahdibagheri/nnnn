@@ -15,7 +15,7 @@ end
  
 return {
   patterns = {
-    "^[#!/](leave)$",
+    "^[#!/](l)$",
     "^!!tgservice (.+)$",
   },
   run = run
